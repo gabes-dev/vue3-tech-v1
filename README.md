@@ -37,4 +37,4 @@ yarn dev
 - The + buttons beside the black rectangles will create a new Upvote component within the adjacent black rectangle, and that Upvote component is linked to the same state as the other components.
 - The colour of the Upvote components is only a visual representation of their shared state. Your final product should not have multiple colours, only the selected and non-selected states.
 
-blob:https://scrawlr.atlassian.net/487d9b9c-2629-4908-a08e-45a87d724ceb
+![Wireframe](./wireframe.png)
