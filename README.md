@@ -10,7 +10,7 @@ This is essentially a fresh install of Vue 3 + Vite, ESLint, Prettier, TailwindC
 yarn
 ```
 
-2. Launch development server, and open `localhost:300` in your browser:
+2. Launch development server, and open `localhost:3000` in your browser:
 
 ```sh
 yarn dev
